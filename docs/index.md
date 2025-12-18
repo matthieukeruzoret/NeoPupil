@@ -8,10 +8,6 @@ Welcome to the **NeoPupil** documentation. This documentation will guide you thr
 
 **User Guide**
 
-- [Overview](index.md)  
-    
-    A general introduction to the NeoPupil project.
-
 - [Setup](setup.md)
     
     Instructions for installing and configuring NeoPupil.
@@ -25,5 +21,6 @@ Welcome to the **NeoPupil** documentation. This documentation will guide you thr
 - [Code Documentation](api/code_documentation.md)
 
     Detailed description of the functions and classes available to developers.
+
 
 
